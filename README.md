@@ -32,3 +32,4 @@
   
   <img alt="" src="https://activity-graph.herokuapp.com/graph?username=iihao&theme=vue" />
 
+  ![views](https://komarev.com/ghpvc/?username=iihao&style=flat)
